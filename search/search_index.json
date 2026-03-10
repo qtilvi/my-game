@@ -1,0 +1,1 @@
+{"config":{"indexing":"full","lang":["en"],"min_search_length":3,"prebuild_index":false,"separator":"[\\s\\-]+"},"docs":[{"location":"","text":"tmp thing, should be able to be seen","title":"Home"},{"location":"gameplay/combat/","text":"this should cover the combat, at some point in time","title":"Combat"}]}
